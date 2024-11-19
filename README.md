@@ -1,7 +1,8 @@
 ﻿# KraloveBot
 Add this bot and assign it a channel to listen to Kralove events in real time.  
 
-Use `/listen` inside a Text Channel to mark that channel as a listener for Kralove Information. 
+Use `/listen` inside a Text Channel to mark that channel as a listener for Kralove Information.
+You also have to pick which Dofus Server this Text Channel will be displaying information for. 
 
 Set a `/role` that will be used to notify you of how many characters are needed in each tile room! 
   
